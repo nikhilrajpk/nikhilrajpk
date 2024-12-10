@@ -1,21 +1,68 @@
-# 💫 About Me:
-🔭 I’m currently working on the eCommerce project<br>🌱 I’m a developing  Python Django and React developer
+<div align="center" style="font-family: Arial, sans-serif; line-height: 1.8; color: #333;">
 
+  <!-- Heading Section -->
+  <h1 style="font-size: 3rem; color: #2E8FF7; font-weight: bold; margin-bottom: 20px;">Hai, I'm Emmanuel Johnson</h1>
+  <p style="font-size: 1.5rem; margin-bottom: 30px; max-width: 700px;">
+    Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. 
+    I'm constantly exploring new tools and frameworks, and I'm always pushing my limits in software development.
+  </p>
+  
+  <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nikhil_raj_pk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhilrajpk2002/) 
+  <!-- GIF Section -->
+  <img src="https://i.imgur.com/Ifry5ba.gif" alt="Coding GIF" width="500" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nikhilrajpk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nikhilrajpk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrajpk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <!-- About Me Section -->
+  <h2 style="color: #2E8FF7; font-size: 2.5rem; margin-bottom: 20px;">About Me</h2>
+  <div style="font-size: 1.4rem; margin-bottom: 30px;">
+    <p><strong>Currently working on:</strong> Ecommerce Project</p>
+    <p><strong>Currently learning:</strong> JavaScript</p>
+    <p><strong>In my free time:</strong> I solve problems on 
+      <a href="https://leetcode.com/u/emmanuel011/" style="color: #2E8FF7; text-decoration: none; font-weight: bold;">LeetCode</a> and read tech articles.
+    </p>
+  </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=nikhilrajpk&icon=0&color=0)](https://visitcount.itsvg.in)
+  <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <!-- Tech Stack Section -->
+  <h2 style="color: #2E8FF7; font-size: 2.5rem; margin-bottom: 20px;">Tech Stack</h2>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,django,postgresql,mongodb,react" 
+         alt="Tech Stack" width="80%" 
+         style="filter: drop-shadow(0 4px 10px rgba(0,0,0,0.2)); border-radius: 5px;" />
+  </p>
+
+  <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
+
+  <!-- Connect with Me Section -->
+  <h2 style="color: #2E8FF7; font-size: 2.5rem; margin-bottom: 20px;">Connect with Me</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+
+  <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
+
+  <!-- My Goals Section -->
+  <h2 style="color: #2E8FF7; font-size: 2.5rem; margin-bottom: 20px;">My Goals</h2>
+  <div style="font-size: 1.4rem;">
+    <p>Contribute to open-source projects regularly</p>
+    <p>Complete certifications in Machine Learning, AI</p>
+    <p>Work on exciting projects that make an impact!</p>
+  </div>
+
+  <hr style="width: 50%; border: 1px solid #ddd; margin: 30px auto;" />
+
+  <!-- Typing SVG Section -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=800&lines=Feel+free+to+explore+my+repositories;Reach+out+if+you+want+to+collaborate+or+chat+about+tech!+😊" 
+       alt="My Goals Typing SVG" style="margin: 20px 0;" />
+
+  <!-- Profile Views Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blue&style=flat-square" alt="Profile Views" />
+  </p>
+
+</div>
