@@ -29,7 +29,7 @@
   <!-- Tech Stack Section -->
   <h2 style="color: #2E8FF7; font-size: 2.5rem; margin-bottom: 20px;">Tech Stack</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,django,postgresql,mongoDB,git,react" 
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,django,postgresql,mongodb,git,react" 
          alt="Tech Stack" width="80%" 
          style="filter: drop-shadow(0 4px 10px rgba(0,0,0,0.2)); border-radius: 5px;" />
   </p>
